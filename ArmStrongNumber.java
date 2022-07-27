@@ -1,6 +1,6 @@
 // Armstrong_Number by Nagarjuna
 import java.util.*;
-public class Main
+class ArmstrongNumber
 {
   public static void main (String[]args)
   {
